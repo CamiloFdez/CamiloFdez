@@ -63,9 +63,6 @@
 </div>
 
 ###<!--
-**CamiloFdez/CamiloFdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently unemployed
 - 🌱 I’m currently learning Systems Engineering
@@ -75,4 +72,13 @@ Here are some ideas to get you started:
     Linkedin: https://www.linkedin.com/in/camilo-fernandez-0104312a4/ 
     Instagram: https://www.instagram.com/camilofernandez41/ 
 - 😄 Pronouns: He/Him
--->
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CamiloFdez/CamiloFdez/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CamiloFdez/CamiloFdez/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CamiloFdez/CamiloFdez/output/pacman-contribution-graph.svg">
+</picture>
+
+###
