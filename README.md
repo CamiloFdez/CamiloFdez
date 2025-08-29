@@ -1,3 +1,18 @@
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamiloFdez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiloFdez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloFdez&theme=blue-green&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="CamiloFdez" />
+</div>  
+
+###
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -64,7 +79,6 @@
 
 ###<!--
 
-- 🔭 I’m currently unemployed
 - 🌱 I’m currently learning Systems Engineering
 - 👯 I’m looking to collaborate on a project, helping with testing and also open to learn anything
 - 🤔 I’m looking for help with coding and cybersecurity
