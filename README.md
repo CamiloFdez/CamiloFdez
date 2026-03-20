@@ -83,7 +83,7 @@
 - 👯 I’m looking to collaborate on a project, helping with testing and also open to learn anything
 - 🤔 I’m looking for help with coding and cybersecurity
 - 📫 How to reach me:
-    Linkedin: https://www.linkedin.com/in/camilo-fernandez-0104312a4/ 
+    Linkedin: [https://www.linkedin.com/in/camilo-fernandez-0104312a4/ ](https://www.linkedin.com/in/camilo-andr%C3%A9s-fern%C3%A1ndez-d%C3%ADaz-0104312a4/)
     Instagram: https://www.instagram.com/camilofernandez41/ 
 - 😄 Pronouns: He/Him
 
